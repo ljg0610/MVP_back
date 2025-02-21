@@ -25,3 +25,7 @@
 - Gihbub Actions
 
 ## 시스템 아키텍처
+<img width="576" alt="Image" src="https://github.com/user-attachments/assets/76fa04ce-e6cb-4ee8-a7c0-745a21c5fae9" />
+
+## ERD
+![Image](https://github.com/user-attachments/assets/469cdedd-8390-4ece-a8ec-9fe1ec6818cf)
