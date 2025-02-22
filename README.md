@@ -6,15 +6,15 @@
 - 언어: Java 17 LTS<br>
 - 빌드도구: Gradle
 - 개발
-  - Spring Framework: 5.3
-  - Spring Boot: 3.3.18
+  - Spring Framework: 6.2.2
+  - Spring Boot: 3.4.2
   - Spring Data
     - Spring Data JPA
   - JPA
     - QueryDSL
 - 데이터베이스
   - MySQL: 9.2.0
-- NHN Cloud
+- AWS
   - EC2
   - ECR
   - IAM
