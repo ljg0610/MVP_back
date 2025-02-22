@@ -27,3 +27,7 @@
 
 ## ERD
 ![Image](https://github.com/user-attachments/assets/48bf151b-26c2-45b1-a9a3-a3590fd11c15)
+
+## API
+<img width="1485" alt="Image" src="https://github.com/user-attachments/assets/a74a8ce0-664b-432b-bc8e-612d3f5c1ce7" />
+<img width="1460" alt="Image" src="https://github.com/user-attachments/assets/dfe1b83f-bdfe-4d09-9c5b-079011d4cc96" />
